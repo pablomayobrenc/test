@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://tmsa.ar",
+  "private": true,
+  "bin": {"tmsa": "cli.js"},
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "Pablo Ariel Mayobre <pablo.a.mayobre@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^2.3.0"
+  }
+}
